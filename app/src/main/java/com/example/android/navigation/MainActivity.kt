@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
 
     // TODO (01) Create the new TitleFragment
     // Select File->New->Fragment->Fragment (Blank)
-    var a = 1+ 1
+
     // TODO (02) Clean up the new TitleFragment
     // In our new TitleFragment
 
